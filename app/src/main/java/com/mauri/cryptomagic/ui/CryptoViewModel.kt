@@ -1,11 +1,11 @@
-package com.example.cryptomagic.ui
+package com.mauri.cryptomagic.ui
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.cryptomagic.model.Crypto
-import com.example.cryptomagic.network.ApiClient
+import com.mauri.cryptomagic.model.Crypto
+import com.mauri.cryptomagic.network.ApiClient
 import kotlinx.coroutines.launch
 import java.util.Locale
 

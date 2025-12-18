@@ -1,4 +1,4 @@
-package com.example.cryptomagic.network
+package com.mauri.cryptomagic.network
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

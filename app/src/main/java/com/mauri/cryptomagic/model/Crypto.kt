@@ -1,4 +1,4 @@
-package com.example.cryptomagic.model
+package com.mauri.cryptomagic.model
 
 data class Crypto(
     val symbol: String,

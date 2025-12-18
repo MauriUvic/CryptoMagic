@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CryptoMagic</string>
+    <string name="search_token">Cercar token...</string>
+    <string name="my_qr_code">El meu codi QR</string>
+    <string name="logout">Tancar sessió</string>
+    <string name="welcome_back">Benvingut/da de nou!</string>
+    <string name="email_address">Adreça de correu electrònic</string>
+    <string name="password">Contrasenya</string>
+    <string name="unlock_wallet">Desbloquejar cartera</string>
+    <string name="create_a_new_wallet">Crear una nova cartera</string>
+    <string name="two_fa_security_check">Verificació de seguretat 2FA</string>
+    <string name="please_scan_your_personal_qr_code_to_verify_your_identity">Si us plau, escaneja el teu codi QR personal per verificar la teva identitat.</string>
+    <string name="start_camera">Iniciar càmera</string>
+    <string name="cancel_login">Cancel·lar inici de sessió</string>
+    <string name="operation_type">Tipus doperació</string>
+    <string name="buy">Comprar</string>
+    <string name="sell">Vendre</string>
+    <string name="cryptocurrency">Criptomoneda</string>
+    <string name="quantity">Quantitat</string>
+    <string name="price_per_unit">Preu per unitat</string>
+    <string name="date_of_transaction">Data de la transacció</string>
+    <string name="total_value">Valor total</string>
+    <string name="platform_optional">Plataforma (opcional)</string>
+    <string name="notes_optional">Notes (opcional)</string>
+    <string name="cancel">Cancel·lar</string>
+    <string name="save">Desar</string>
+    <string name="price">Preu</string>
+    <string name="volume">Volum</string>
+    <string name="total_profit_loss">Guany/Pèrdua Total</string>
+    <string name="spot_value">Valor Spot</string>
+    <string name="operations">Operacions</string>
+    <string name="save_operation">Guardar Operació</string>
+    <string name="info">Informació</string>
+</resources>
